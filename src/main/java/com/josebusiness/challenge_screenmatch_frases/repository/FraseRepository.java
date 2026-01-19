@@ -1,5 +1,6 @@
 package com.josebusiness.challenge_screenmatch_frases.repository;
 
+import com.josebusiness.challenge_screenmatch_frases.model.Frase;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
